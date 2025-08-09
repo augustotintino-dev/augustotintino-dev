@@ -8,3 +8,7 @@
 - 📫 Falar comigo é fácil, basta procurar por augustotintino-dev nas redes sociais.
 - 😄 Curto codar em habientes livres rodeado pela natureza.
 - ⚡ Sou uma pessoa legal e trasparente, sem frescuras e com muita honestidade.
+
+  ## Minhas tecnologias favoritas
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
