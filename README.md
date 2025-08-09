@@ -10,5 +10,7 @@
 - ⚡ Sou uma pessoa legal e trasparente, sem frescuras e com muita honestidade.
 
   ## Minhas tecnologias favoritas
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
+          
           
