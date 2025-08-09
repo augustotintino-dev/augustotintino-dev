@@ -11,7 +11,7 @@
 
   ## Minhas tecnologias favoritas
             
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" width="40" height="40" />
           
           
           
