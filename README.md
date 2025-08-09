@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" height="40" />
                   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+
+  O que aprendo, gosto de ensinar. Como exemplo: se você quiser colocar esses ícons no seu github também, vai em: https://devicon.dev/
   
   
                 
