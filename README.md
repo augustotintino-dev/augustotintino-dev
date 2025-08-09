@@ -43,6 +43,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?augustotintino-dev&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?augustotintino-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+<div class="tenor-gif-embed" data-postid="16925827718659707725" data-share-method="host" data-aspect-ratio="1.02049" data-width="100%"><a href="https://tenor.com/view/crypto-tokeowallet-tokeopaywallet-tokeopay-tokeo-gif-16925827718659707725">Crypto Tokeowallet GIF</a>from <a href="https://tenor.com/search/crypto-gifs">Crypto GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
                 
           
           
