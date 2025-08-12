@@ -1,13 +1,13 @@
 ## Fala recrutador, tá eu aqui: Augusto Tintino na área. 👋
 
 - 🔭 Atualmente estou trabalhando em uma construtora como eletricista.
-- 🌱 Atualmente estou aprendendo com a Rocketseat, ONE - Alura e a faculdade Anhanguera. Pretendo ser um desenvolvedor mobile.
+- 🌱 Estou aprendendo desenvolvimento mobile com a Rocketseat, com o programa ONE da Oracle e Alura, em paralelo faço faculdade de dev. mobile na Anhanguera.
 - 👯 Estou procurando colaborar em desenvolver aplicações incríveis para a humanidade.
-- 🤔 Estou procurando ajuda com meu conhecimento centrado.
+- 🤔 Estou procurando ajudar comercios locais para adquirir experiência. (cobrando pouco ou nada).
 - 💬 Pergunte-me sobre os livros que leio e te mostrarei meus segredos.
-- 📫 Falar comigo é fácil, basta procurar por augustotintino-dev nas redes sociais.
-- 😄 Curto codar em habientes livres rodeado pela natureza.
-- ⚡ Sou uma pessoa legal e trasparente, sem frescuras e com muita honestidade.
+- 📫 Falar comigo é fácil, basta procurar por augustotintino-dev nas redes sociais ou cllicar nas redes sociais abaixo.
+- 😄 Curto codar em habientes livres rodeado pela natureza, ou no meu pequeno setup que parece um studio de uma gravadora.
+- ⚡ Todos os dias tento ser uma pessoa melhor, legal, trasparente e sem frescuras para com a vida pois a mesma já é complicada demais.
 
   ## Minhas tecnologias favoritas
             
